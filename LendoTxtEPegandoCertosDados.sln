@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LendoTxtEPegandoCertosDados", "LendoTxtEPegandoCertosDados.csproj", "{40BBB288-FB65-4318-B89F-207DA1A609DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{40BBB288-FB65-4318-B89F-207DA1A609DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40BBB288-FB65-4318-B89F-207DA1A609DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40BBB288-FB65-4318-B89F-207DA1A609DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40BBB288-FB65-4318-B89F-207DA1A609DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {790C92A5-D9BE-4F38-A801-28AEDF8979E4}
+	EndGlobalSection
+EndGlobal
