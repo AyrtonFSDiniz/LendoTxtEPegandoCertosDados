@@ -15,7 +15,7 @@ class Program
         {
             Console.WriteLine("Opa, arquivo vazio ou inexistente!");
         }
-        //string myFile = @"C:\Users\ayrton.diniz\Desktop\Linkedins_para_conectar_Criar_poc_de_leitura_CSharp.txt";
+
         Console.WriteLine("Agora, digite parte do nome que deseja filtrar. Ex: @hotmail -> para só pegar e-mails.");
         Console.WriteLine("");
         string parteDoNomeDesejado = Console.ReadLine();
